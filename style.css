@@ -121,26 +121,3 @@ main{
 
 
 
-@media only screen and (max-width: 600px){
-    .intestazione{
-        min-height: 40vh;
-    }
-    nav ul{
-        height: 10vh;
-        width: 100%;
-    }
-    h1{
-        font-size: 30px;
-    }
-    .articleflex{
-        width: 100%;
-        padding: 0px;
-    }
-    .flex{
-        flex-direction: column;
-    }
-    .img{
-        width: 100%;
-    }
-    
-}
