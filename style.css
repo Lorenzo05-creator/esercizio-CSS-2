@@ -95,7 +95,7 @@ aside{
     display: flex;
     justify-content: space-around;
     width: 60%;
-    min-height: 50vh;
+    height: 80vh;
     align-items: start;
     margin-bottom: 100px;
     
